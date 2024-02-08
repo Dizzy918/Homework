@@ -1,0 +1,9 @@
+Първи път:
+    gcc -c transformation.c -o transformation.o
+
+Втори път:
+    gcc main.c transformation.o -o program
+
+Трети път:
+    ./program
+
